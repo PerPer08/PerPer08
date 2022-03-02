@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on C++
 - 🤔 I’m looking for help with Python
 - 💬 You can ask about my ideas
-- 📫 How to reach me: jaspernillos6803@gmail.com
+- 📫 How to reach me: [jaspernillos6803@gmail.com](url)
 - 😄 Pronouns: He/Him
 - ▶️ My Hobbies are Watching animes or movies and reading mangas
-- ⚡ Fun fact: My favorite comfort food is peanut
+- ⚡ Fun fact: My favorite comfort food is peanut 
