@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Studying my last year at  West Visayas State University
   
-- 🌱 I’m currently learning by doing some robotics related things
+- 🌱 I’m currently learning by doing some robotics and AI related things
 
 - 👯 I’m looking to collaborate on projects related to both robotics and AI
   
