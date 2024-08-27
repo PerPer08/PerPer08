@@ -12,6 +12,5 @@
   
 - 💬 You can ask about things that you find interesting about me
   
-- ▶️ My Hobbies other than computer stuffs are origami
+- ▶️ My Hobbies outside the computer screen are Origami, Aikido, and Tinkering
   
-- ⚡ Fun fact: My favorite comfort food is peanut and I like constructive criticisms that can help me improve
